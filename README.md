@@ -11,13 +11,12 @@
       <img src="https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logoColor=white&logo=express&color=000000" alt="Express.js" /> 
       </div> 
       <h3 align="center">MERN Food Ordering App</h3>
-       <div align="center"> A full-stack food ordering platform built with the MERN stack, featuring user authentication, responsive design, secure payments and admin capabilities.
+       <div align="center"> A full-stack food ordering platform built with the MERN stack as part of Chris Blakely's "Enterprise-Level Food Ordering Platform" Youtube course.
         </div>
          </div>
         
 <br>
 <div align="center">
-    Built as part of Chris Blakely's "Enterprise-Level Food Ordering Platform" Youtube course, this app serves as a comprehensive project to learn and apply full-stack development skills.
     <br><br>
     <a href="https://www.youtube.com/watch?v=ardeKHEN1j4&t=44672s&ab_channel=ChrisBlakely" target="_blank">Project Video</a>
     <br>
