@@ -37,7 +37,7 @@
                 <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">Initiated</th>
                 <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">Completed</th>
                 <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">Progress - 29Dec24</th>
-                <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">YT video lengh</th>
+                <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">YT video lenght</th>
             </tr>
         </thead>
         <tbody style="background-color: #f9f9f9;">
