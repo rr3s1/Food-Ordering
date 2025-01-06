@@ -105,7 +105,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/r3ss1/food-ordering.git
+git clone https://github.com/rr3s1/food-ordering.git
 ```
 Frontend and Backend are hosted in separate repositories. 
 ```bash
